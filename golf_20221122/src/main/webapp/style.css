@@ -4,7 +4,7 @@
 	padding: 0;
 }
 body{
-	font-family: gulim;
+	/*font-family: gulim;*/
 	background: #cdcdcd;
 }
 header{
@@ -41,7 +41,7 @@ a:hover, .btn:hover{
 }
 section{
 	width: 100%;
-	
+	align-content: center;
 }
 
 .title{
@@ -61,6 +61,7 @@ section{
 	margin: 2rem;
 }
 table, th, td{
+	
 	border: 1px solid #333;
 	border-collapse: collapse;
 }
